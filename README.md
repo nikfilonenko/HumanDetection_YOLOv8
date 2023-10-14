@@ -9,3 +9,4 @@
 ![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/cb4b0f94-7a45-42b8-906c-5e5dd08eac6c)
 ![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/7f0811fa-1623-4c24-b7f8-905e882c20b0)
 
+## `(4)` The result of the trained model - `Fine-tuning` YOLO8 Medium custom
