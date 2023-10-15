@@ -25,3 +25,24 @@
 
 
 ## `(4)` The result of the trained model - `Fine-tuning` YOLO8 Medium custom
+
+### Training model
+
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/4a38a472-5253-4aa5-9664-e07dd680b7d4)
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/9e08da33-c73f-40dd-a1a0-485325687082)
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/78bfd820-2914-45d8-86a7-51f297aea76b)
+
+### Model Validation
+
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/501a1ec5-2b82-488e-b0b5-fa1e27dabb8a)
+
+### Predict on images
+
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/fa0f435d-44e3-4db2-8139-66e8c8d60260)
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/01bfb72c-577f-46f6-9aa5-1a65c689b737)
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/6dae6ccc-d153-4173-b20f-742c85f217b7)
+
+### Predict on video
+
+
+
