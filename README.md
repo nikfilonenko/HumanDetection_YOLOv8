@@ -23,6 +23,8 @@
 
 ### Predict on video
 
+![output(video-cutter-js com) (1)](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/6b65b76f-cdb3-4398-888f-54ffe2359e47)
+
 
 ## `(4)` The result of the trained model - `Fine-tuning` YOLO8 Medium custom
 
