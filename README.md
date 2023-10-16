@@ -7,43 +7,36 @@
 ## `(2)` The result of the trained model - YOLO8 Medium custom
 
 ### Training model
-
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/2ce94361-fdb4-4339-a32a-085983954fa0)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/70ebe9ea-43d1-48c1-bcde-eb7b5da8104b)
+![1 train без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/14283836-e761-4352-a65e-e07f14e7e773)
+![2 train без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/5255fa3c-9c6d-4610-ae39-a63c989943b6)
 
 ### Model Validation
-
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/3eb75690-3bde-48f7-9787-323ba58e94b3)
+![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/28fb9314-6431-4844-8df5-77f1151a49e8)
 
 ### Predict on images
-
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/b31ac01c-d294-408e-a7d0-d813a4fb42ed)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/b0b49a35-7e6a-4665-bb15-e077984d3925)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/c06e9aa8-206a-49a2-94f7-8b42a96d08d4)
+![1 без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/d20790af-7a30-49d2-991f-cecc863978ce)
+![2 без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/585c4b6c-4d09-450d-ba16-c34ab5d08131)
+![3 без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/3e93155a-5198-4997-9636-d6505858c974)
+![без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/91abbf56-06c5-42a6-b5e0-c7017acdb623)
 
 ### Predict on video
-
-![output(video-cutter-js com) (1)](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/37412627-cd24-4853-adee-c1a84efd20ea)
-
-
+![output(video-cutter-js com) (1)](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/196d82ad-dc29-4440-9fc7-64bcd55f1ab9)
 
 ## `(3)` The result of the trained model - `Fine-tuning` YOLO8 Medium custom
 
 ### Training model
-
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/4a38a472-5253-4aa5-9664-e07dd680b7d4)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/9e08da33-c73f-40dd-a1a0-485325687082)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/78bfd820-2914-45d8-86a7-51f297aea76b)
+![1 train с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/932d1d0e-73b8-4661-b509-5583d0de2262)
+![2 train с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/15e0106e-f49c-460c-9955-001ac8c53c34)
 
 ### Model Validation
-
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/501a1ec5-2b82-488e-b0b5-fa1e27dabb8a)
+![2 val с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/a21bc6f0-c41c-4cc7-93ae-bfb14cee430f)
 
 ### Predict on images
+![1 с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/1f750dd8-c5e4-4d68-ae0c-2e0d960e1db0)
+![2 с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/42f572b6-f721-428f-8aa2-cd5cdc758f11)
+![3 с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/e073cedc-93aa-480a-b7c9-2b3b99cf820b)
 
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/fa0f435d-44e3-4db2-8139-66e8c8d60260)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/01bfb72c-577f-46f6-9aa5-1a65c689b737)
-![image](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/6dae6ccc-d153-4173-b20f-742c85f217b7)
+
 
 ### Predict on video
 
