@@ -1,10 +1,19 @@
 # About the project ***`HumanDetection_YOLOv8`***
-## `(1)` A little bit about the dataset
+
+#
+# Table of contents (Оглавление)
+1. [**A little bit about the dataset**](#01)
+2. [**The result of the trained model - YOLO8 Medium custom**](#02)
+3. [**The result of the trained model - `Fine-tuning` YOLO8 Medium custom**](#03)
+4. [**Conclusion**](#04)
+#
+
+## `01.` A little bit about the dataset <a name="01"></a>
 - This dataset was created by extracting `frames` from `12 short videos`. To enrich this data collection with a variety of images, such as blurry images, small-sized images, and others, it was decided to use the unmarked data set available on Kaggle. 
 
 - **After the required number of frames was obtained, all images were annotated using the [`Roboflow platform`](https://roboflow.com/).**
 
-## `(2)` The result of the trained model - YOLO8 Medium custom
+## `02.` The result of the trained model - YOLO8 Medium custom <a name="02"></a>
 
 ### Training model
 ![1 train без fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/14283836-e761-4352-a65e-e07f14e7e773)
@@ -22,7 +31,7 @@
 ### Predict on video
 ![output(video-cutter-js com) (1)](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/196d82ad-dc29-4440-9fc7-64bcd55f1ab9)
 
-## `(3)` The result of the trained model - `Fine-tuning` YOLO8 Medium custom
+## `03.` The result of the trained model - `Fine-tuning` YOLO8 Medium custom <a name="03"></a>
 
 ### Training model
 ![1 train с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/932d1d0e-73b8-4661-b509-5583d0de2262)
@@ -39,5 +48,6 @@
 ### Predict on video
 ![_-fine-tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/7e30bfed-13fe-4b95-afff-5ea3bb3af104)
 
-
+### `04.` Conclusion <a name="04"></a>
+**As you can see, a trained model using fine tuning shows better results. Does not make mistakes when detecting an object, as it happens with a model without fine tuning**
 
