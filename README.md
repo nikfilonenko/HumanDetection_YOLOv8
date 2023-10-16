@@ -36,9 +36,8 @@
 ![2 с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/42f572b6-f721-428f-8aa2-cd5cdc758f11)
 ![3 с fine tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/e073cedc-93aa-480a-b7c9-2b3b99cf820b)
 
-
-
 ### Predict on video
+![_-fine-tune](https://github.com/nikfilonenko/HumanDetection_YOLOv8/assets/103507130/7e30bfed-13fe-4b95-afff-5ea3bb3af104)
 
 
 
